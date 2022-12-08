@@ -31,7 +31,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/qr-code-component-IJ8V2Ph_Yf)
 - [Live Site URL](https://luxury-yeot-3bbfac.netlify.app/)
 
 ## My process
