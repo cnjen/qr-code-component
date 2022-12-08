@@ -23,7 +23,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-![](https://github.com/cnjen/qr-code-component/commit/6e811c422f021b6147dadce52e3b4cd9039d990b#diff-f33a2c3e085c8b3e8c97f3a64fe40449d3fa12c74a91686d60fb8923ba5634b3)
+[Screenshot](https://github.com/cnjen/qr-code-component/commit/6e811c422f021b6147dadce52e3b4cd9039d990b#diff-f33a2c3e085c8b3e8c97f3a64fe40449d3fa12c74a91686d60fb8923ba5634b3)
  
 ### Links
 
