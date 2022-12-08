@@ -23,15 +23,11 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/cnjen/qr-code-component/commit/6e811c422f021b6147dadce52e3b4cd9039d990b#diff-f33a2c3e085c8b3e8c97f3a64fe40449d3fa12c74a91686d60fb8923ba5634b3)
  
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- [Solution URL:](https://www.frontendmentor.io/solutions/qr-code-component-IJ8V2Ph_Yf)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-IJ8V2Ph_Yf)
 - [Live Site URL](https://luxury-yeot-3bbfac.netlify.app/)
 
 ## My process
